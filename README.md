@@ -8,6 +8,6 @@ En este intento de blog podras ver mi avance en el curso de Git y GitHub, este c
 
 # Makima 
 
-<img src="https://imgur.com/HovMhPl" alt="makima" width="500" height="414">
+![Makima](https://imgur.com/HovMhPl)
 
 ###End
